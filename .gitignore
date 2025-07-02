@@ -1,0 +1,29 @@
+# Maven build output
+/target
+*.war
+*.class
+*.log
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Java backup & temporary files
+*.swp
+*.bak
+*~
+*.tmp
+
+# IntelliJ IDEA (optional, if not used)
+.idea/
+*.iml
+
+# Eclipse (optional, if not used)
+.project
+.classpath
+
+# Build tools cache
+.mvn/
