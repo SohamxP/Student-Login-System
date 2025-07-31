@@ -12,7 +12,7 @@ A robust and extensible Student Login System built with Java. This project enabl
 - 🚀[Setup & Installation](#-setup--installation)
 - 💡[Usage](#-usage)
 - 🤝[Contributing](#-contributing)
-- [📬Contact](#-contact)
+- 📬[Contact](#-contact)
 
 ---
 
